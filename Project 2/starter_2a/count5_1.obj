@@ -1,0 +1,9 @@
+3 2 1 2
+0x00820003
+0x000A0001
+0x017E0000
+0xFFFFFFFF
+0x00000000
+SubAdr D 1
+0 lw neg1
+1 .fill subOne

@@ -1,0 +1,10 @@
+0x20010004   # lw 0 1 neg3
+0x20020005   # lw 0 2 neg6
+0x10420003   # nor 1 2 3
+0x60000000   # halt
+0xFFFFFFFD   # .fill -3 (neg3)
+0xFFFFFFFA   # .fill -6 (neg6)
+
+
+// lw w labels / neg numbers is problem 
+// modify struct to hold value

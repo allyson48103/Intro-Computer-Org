@@ -1,0 +1,12 @@
+C: 8454151 (it's correct after finding address val += findadd...)
+9043971
+655361
+OK 16842755 VS 16842754
+CORRECT 16842749 vs MINE 16842739 (wrong line)
+29360128
+25165824
+5
+-1
+2
+
+findaddress is wrong
